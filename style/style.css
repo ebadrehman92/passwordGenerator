@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(89, 89, 211);
+}
+
+.big-box {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+header {
+        text-align: center;
+        padding: 20px;
+        padding-top: 0px;
+        color: white;
+        font-size: 20px;
+}
+
+.card {
+    background-color: rgb(190, 190, 190);
+    font-size: 13px;
+    margin: 0 auto;
+    width:60%;
+    padding: 40px 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.card-1 {
+    background-color: white;
+    font-size: 15px;
+    margin: 0 auto;
+    width:80%;
+    padding: 30px 40px;
+    border-width: 1px;
+    border-radius: 5px;
+    display: block;
+    height: 300px;
+}
+
+.card-3 {
+    min-height:200px;
+    min-width: 400px;
+    font-size:20px;
+}
+
+.btn {
+    background-color: rgb(194, 194, 95);
+    min-height: 50px;
+    min-width: 200px;
+    font-size: 30px;
+}
